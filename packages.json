@@ -13,7 +13,7 @@
 },
 
 {
-  "package": "extractSciTab",
+  "package": "ExtractSciTab",
   "url": "https://github.com/repboxr/extractSciTab",
   "branch": "main"
 },
