@@ -60,12 +60,6 @@
 },
 
 {
-  "package": "repboxExamples",
-  "url": "https://github.com/repboxr/repboxExamples",
-  "branch": "main"
-},
-
-{
   "package": "repboxGithub",
   "url": "https://github.com/repboxr/repboxGithub",
   "branch": "main"
@@ -76,13 +70,6 @@
   "url": "https://github.com/repboxr/repboxHtml",
   "branch": "main"
 },
-
-{
-  "package": "repboxIssues",
-  "url": "https://github.com/repboxr/repboxIssues",
-  "branch": "main"
-},
-
 
 {
   "package": "repboxMap",
@@ -115,11 +102,6 @@
   "branch": "main"
 },
 
-{
-  "package": "repboxTests",
-  "url": "https://github.com/repboxr/repboxTests",
-  "branch": "main"
-},
 
 {
   "package": "repboxRun",
