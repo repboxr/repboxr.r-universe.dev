@@ -107,6 +107,11 @@
   "package": "repboxRun",
   "url": "https://github.com/repboxr/repboxRun",
   "branch": "main"
-}
+},
 
+{
+  "package": "repboxverse",
+  "url": "https://github.com/repboxr/repboxverse",
+  "branch": "main"
+}
 ]
