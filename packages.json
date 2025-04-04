@@ -1,4 +1,17 @@
 [
+
+{
+  "package": "repboxAI",
+  "url": "https://github.com/repboxr/repboxAI",
+  "branch": "main"
+},
+ 
+{
+  "package": "repboxTableTools",
+  "url": "https://github.com/repboxr/repboxTableTools",
+  "branch": "main"
+},
+
  
 {
   "package": "sourcemodify",
