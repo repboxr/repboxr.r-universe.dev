@@ -5,6 +5,12 @@
   "url": "https://github.com/repboxr/repboxAI",
   "branch": "main"
 },
+
+{
+  "package": "repboxDoc",
+  "url": "https://github.com/repboxr/repboxDoc",
+  "branch": "main"
+},
  
 {
   "package": "repboxTableTools",
