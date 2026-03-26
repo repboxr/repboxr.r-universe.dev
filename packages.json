@@ -158,5 +158,10 @@
   "package": "repboxverse",
   "url": "https://github.com/repboxr/repboxverse",
   "branch": "main"
+},
+	{
+	"package": "restorepoint",
+	"url": "https://github.com/skranz/restorepoint",
+	"branch": "master"
 }
 ]
