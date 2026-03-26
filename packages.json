@@ -1,6 +1,23 @@
 [
 
 {
+  "package": "metaregBase",
+  "url": "https://github.com/repboxr/metaregBase",
+  "branch": "main"
+},
+
+{
+  "package": "repboxDRF",
+  "url": "https://github.com/repboxr/repboxDRF",
+  "branch": "main"
+},
+
+{
+  "package": "repboxStataReg",
+  "url": "https://github.com/repboxr/repboxStataReg",
+  "branch": "main"
+},  
+{
   "package": "repboxAI",
   "url": "https://github.com/repboxr/repboxAI",
   "branch": "main"
