@@ -1,4 +1,9 @@
 [
+	{
+	"package": "stringtools",
+	"url": "https://github.com/skranz/stringtools",
+	"branch": "master"
+},
 {
 	"package": "stata2r",
 	"url": "https://github.com/skranz/stata2r",
